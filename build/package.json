@@ -1,0 +1,21 @@
+{
+  "name": "better-local-storage",
+  "version": "1.0.0",
+  "description": "A package that makes getting and setting local/session storage items much easier.",
+  "homepage": "https://github.com/jacob-hackney/better-local-storage#readme",
+  "bugs": {
+    "url": "https://github.com/jacob-hackney/better-local-storage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-hackney/better-local-storage.git"
+  },
+  "license": "ISC",
+  "author": "Jacob Hackney",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "build": "sh build.sh"
+  }
+}

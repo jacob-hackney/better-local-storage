@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
+    "strict": true,
+    "declaration": true,
+    "rootDir": "src",
+    "outDir": "build/src",
+    "declarationDir": "build/types"
+  }
+}
