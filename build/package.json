@@ -1,6 +1,6 @@
 {
-  "name": "better-local-storage",
-  "version": "1.0.0",
+  "name": "better-browser-storage",
+  "version": "1.0.1",
   "description": "A package that makes getting and setting local/session storage items much easier.",
   "homepage": "https://github.com/jacob-hackney/better-local-storage#readme",
   "bugs": {
